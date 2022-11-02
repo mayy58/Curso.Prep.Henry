@@ -1,0 +1,18 @@
+h1 {
+	color: #d24d8f; /*ctrl + espacio y aparece una lista de los colores*/
+}
+img {
+    width: 400px; /*ancho*/
+}
+#thirdDiv {  /*la etiqueta id es unica, a diferencia de class que varias pueden tener el mismo nombre*/
+    width: 600px; /*ancho*/
+	height: 500px; /*altura*/
+    background-color: yellow; /*color de fondo*/
+    padding: 50px; /*relleno*/
+    border: 15px green solid; /*borde, color, estilo de borde*/
+}
+#spanId {
+    font-size: 18px; /*tamaño de fuente*/
+    margin: 200px; /*margen*/
+   
+}
